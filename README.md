@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Portfolio**: [https://portfolio-six-xi-l3x8881u9a.vercel.app/]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: (https://github.com/AiwithNodirbek))
 - **LinkedIn**: [www.linkedin.com/in/nodirbek-kamoldinov-a4916534a]
 
 ---
